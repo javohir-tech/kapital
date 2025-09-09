@@ -28,8 +28,25 @@ export default function Home() {
             <h2>Работайте с нами</h2>
             <p>Капитальный ремонт офисов – путь к успеху и престижу по-новому</p>
           </div>
-          <div className="row">
-
+          <div className="row ">
+            <div className="col-4">
+              <div className="text-center">
+                <h3>Точная стоимость работ</h3>
+                <p>Выезд инженера-сметчика для расчета точной стоимости в течении 3-х часов</p>
+              </div>
+            </div>
+            <div className="col-4">
+              <div className="text-center">
+                <h3>Точная стоимость работ</h3>
+                <p>Выезд инженера-сметчика для расчета точной стоимости в течении 3-х часов</p>
+              </div>
+            </div>
+            <div className="col-4">
+              <div className="text-center">
+                <h3>Точная стоимость работ</h3>
+                <p>Выезд инженера-сметчика для расчета точной стоимости в течении 3-х часов</p>
+              </div>
+            </div>
           </div>
         </section>
       </Container>
