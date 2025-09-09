@@ -21,7 +21,18 @@ export default function Home() {
       </section>
       {/* /Banner section */}
 
-      
+      <Container>
+        <section className="cards-section mt-5">
+          <div className="d-flex flex-column align-items-center">
+            <p>Преимущества</p>
+            <h2>Работайте с нами</h2>
+            <p>Капитальный ремонт офисов – путь к успеху и престижу по-новому</p>
+          </div>
+          <div className="row">
+
+          </div>
+        </section>
+      </Container>
     </>
   )
 }
