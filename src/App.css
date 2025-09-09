@@ -1,0 +1,42 @@
+/*Navbar Link*/
+.navbar-link{
+    color: #023047B2 !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+}
+
+.num-title{
+    color: #023047B2;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.num{
+    color: #023047;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* Banner section */
+.banner-section{
+    background: url(../src/assets/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color:#FFFFFF;
+
+    h1{
+        font-weight: 700;
+        font-size: 64px;
+    }
+
+    p{
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .blur{
+        background-color: #02304766;
+    }
+}

@@ -5,7 +5,8 @@ import './index.css'
 import { RouterProvider } from 'react-router-dom'
 //Router
 import router from './Routes/Router.jsx'
-import App from './App.jsx'
+//Bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 createRoot(document.getElementById('root')).render(
